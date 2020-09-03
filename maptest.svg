@@ -1,0 +1,442 @@
+<svg width="1500" height="1000" xmlns="http://www.w3.org/2000/svg">
+    <g>
+    <title>background</title>
+    <rect x="-1" y="-1" width="1502" height="1002" id="canvas_background" fill="blue"/>
+    </g>
+
+    <g>
+    <title>Layer 1</title>
+    <polygon id="iranw" points="811,303,844,414,791,404,770,378,752,375,735,344,725,318,714,292,715,270,752,270,779,298" stroke="black" />
+    <polygon id="irane" points="811,303,844,289,869,286,893,294,906,302,902,328,906,365,915,395,926,415,904,431,858,424,843,411,808,304" stroke="black" />
+    <polygon id="iraq" points="748,374,762,395,698,383,664,357,631,385,612,384,619,309,624,291,718,287,741,376" stroke="black" />
+    <polygon id="arab1" points="603,385,618,418,637,446,653,457,654,482,666,495,774,427,761,402,737,387,691,379,662,356,631,386" stroke="black" />
+    <polygon id="arab2" points="674,493,773,426,785,429,794,442,831,445,848,432,883,452,870,484,759,570,705,575,681,515" stroke="black" />
+    <polygon id="turkey" points="515,261,549,259,575,246,608,239,621,244,640,253,672,254,698,249,710,267,713,285,622,298,593,306,553,309,523,298,509,267" stroke="black" />
+    <polygon id="ru1" points="641,146,707,114,754,152,741,169,756,179,772,188,772,198,747,200,753,227,762,242,779,259,767,282,751,267,739,271,717,273,700,245,674,261,684,228,663,224,634,211,647,188,656,170" stroke="black" />
+    <polygon id="ru3" points="595,70,614,143,591,123,576,101,562,100,546,81,527,65,540,36,572,3,613,1,655,27,690,58,630,52" stroke="black" />
+    <polygon id="ru2" points="612,137,643,148,707,113,687,59,629,51,594,70" stroke="black" />
+    <polygon id="ru4" points="687,56,828,59,819,2,613,5" stroke="black" />
+    <polygon id="ru5" points="826,56,842,142,792,132,758,148,747,145,706,114,688,58" stroke="black" />
+    <polygon id="ru6" points="824,56,974,38,928,1,820,1" stroke="black" />
+    <polygon id="ru7" points="836,144,906,141,893,117,914,94,961,102,982,89,970,40,828,56" stroke="black" />
+    <polygon id="ru8" points="1048,2,1069,58,1075,98,1048,107,1020,96,1005,85,983,85,971,35,925,0" stroke="black" />
+    <polygon id="ru9" points="1082,101,1181,65,1175,1,1050,5" stroke="black" />
+    <polygon id="ru10" points="1079,103,1125,138,1152,140,1192,155,1227,153,1247,146,1181,64" stroke="black" />
+    <polygon id="ru11" points="1247,144,1279,143,1276,5,1176,0,1177,61" stroke="black" />
+    <polygon id="chi1" points="1206,158,1169,177,1176,224,1279,243,1276,175,1275,135" stroke="black" />
+    <polygon id="chi2" points="1161,175,1144,189,1141,202,1119,205,1117,215,1114,247,1084,251,1115,274,1174,280,1175,224,1168,179" stroke="black" />
+    <polygon id="chi3" points="1175,223,1175,279,1206,307,1261,311,1279,307,1274,241" stroke="black" />
+    <polygon id="chi4" points="1204,308,1218,408,1235,394,1249,401,1266,387,1279,386,1278,308" stroke="black" />
+    <polygon id="chi5" points="1211.25,420 1204.25,434 1207.25,453 1217.25,474 1242.25,470 1259.25,493 1276.25,514 1273.25,392 1263.25,385 1247.25,398 1217.25,389 " stroke="black" />
+    <polygon id="chi6" points="1204,307,1098,326,1081,309,1056,293,1057,276,1041,274,1050,256,1072,254,1082,249,1115,274,1177,279" stroke="black" />
+    <polygon id="chi7" points="1100,327,1116,345,1100,344,1106,355,1114,366,1135,379,1143,375,1166,380,1192,394,1218,398,1204,303" stroke="black" />
+    <polygon id="indi1" points="1121,376,1144,374,1170,381,1188,390,1218,397,1206,436,1208,468,1194,476,1156,462,1131,439,1108,413" stroke="black" />
+    <polygon id="indi2" points="1054,369,1109,363,1127,377,1114,414,1135,439,1089,447,1064,447" stroke="black" />
+    <polygon id="indi3" points="1053,373,1031,392,1019,405,1002,405,1010,431,1011,442,983,451,1008,464,1000,485,1022,484,1032,469,1041,490,1069,494" stroke="black" />
+    <polygon id="indi4" points="1089,447,1134,436,1154,458,1196,473,1194,491,1172,496,1153,519,1069,495,1064,445" stroke="black" />
+    <polygon id="indi5" points="1035.375,488 1063.375,562 1077.375,597 1091.375,624 1108.375,618 1125.375,599 1125.375,565 1125.375,538 1151.375,527 1160.375,516 " stroke="black" />
+    <polygon id="pak1" points="985,356,1005,405,1010,438,983,448,965,438,945,427,906,428,930,411,919,404,910,382" stroke="black" />
+    <polygon id="pak2" points="982,355,1012,330,1058,370,1021,407,1004,408" stroke="black" />
+    <polygon id="pak3" points="1057,292,1036,298,1021,306,1012,329,1056,369,1110,360,1099,346,1117,344,1102,328,1087,315,1071,310,1067,300" stroke="black" />
+    <polygon id="afq1" points="908,312,956,289,985,355,908,380,902,331,897,324" stroke="black" />
+    <polygon id="afq2" points="958,291,1008,267,1035,300,1019,308,1014,333,982,352" stroke="black" />
+    <polygon id="turkm1" points="820.625,233.625 826.625,250.625 806.625,251.625 813.625,264.625 820.625,275.625 821.625,291.625 834.625,282.625 865.625,282.625 907.625,308.625 899.625,307.625 885.625,265.625 899.625,248.625 882.625,230.625 " stroke="black"  transform="rotate(-1.90682, 857.125, 269.625)"/>
+    <polygon id="turkm2" points="901,246,948,258,969,283,904,315,904,300,892,297,887,263" stroke="black" />
+    <polygon id="uzbek" points="848,234,847,203,880,197,923,209,965,223,1009,270,969,284,951,257,897,249,881,230" stroke="black" />
+    <polygon id="kazak1" points="846,202,863,172,810,182,810,202,793,204,782,211,791,226,811,232,806,242,829,236,850,234" stroke="black" />
+    <polygon id="kaza2" points="863,172,858,137,832,134,802,131,782,131,761,145,749,152,739,170,754,176,762,185,770,190,793,181,810,185" stroke="black" />
+    <polygon id="kazak3" points="908,140,932,210,880,197,847,204,861,169,857,133" stroke="black" />
+    <polygon id="kazak4" points="919,173,989,164,967,97,928,92,915,91,895,109" stroke="black" />
+    <polygon id="kazak5" points="985,164,1014,209,971,233,960,225,932,209,922,172" stroke="black" />
+    <polygon id="kazak6" points="985,164,1049,158,1055,107,996,77,963,91" stroke="black" />
+    <polygon id="kazak7" points="1014,206,1064,229,1074,257,1048,258,1050,275,1073,283,1048,299,1024,295,1008,269,972,235" stroke="black" />
+    <polygon id="kazak8" points="1050,159,1122,205,1118,245,1067,251,1063,225,1011,205,983,163" stroke="black" />
+    <polygon id="kazak9" points="1055,111,1076,100,1100,120,1118,133,1144,141,1189,148,1212,152,1186,167,1162,177,1146,187,1141,200,1123,205,1048,160" stroke="black" />
+    <polygon id="egt1" points="612,317,532,332,491,354,495,397,576,382,617,349" stroke="black" />
+    <polygon id="egt2" points="612,350,576,377,491,397,493,463,628,465,592,418" stroke="black" />
+    <polygon id="sud1" points="490,460,628,469,651,482,669,491,639,521,621,537,615,563,547,543,479,539" stroke="black" />
+    <polygon id="sud2" points="477,539,454,565,467,583,481,605,490,605,518,609,545,608,571,595,595,596,622,560,567,545,544,542" stroke="black" />
+    <polygon id="ethio1" points="697,559,655,557,618,557,595,595,593,626,582,629,609,653,622,664,637,679" stroke="black" />
+    <polygon id="ethio2" points="639,676,681,674,733,649,752,614,748,591,712,595,696,584,687,578" stroke="black" />
+    <polygon id="somal" points="748,591,791,582,788,597,784,618,761,648,734,688,700,709,678,743,675,695,680,668,721,656,739,641,756,610" stroke="black" />
+    <polygon id="kenya" points="680,740,658,762,648,775,630,752,587,730,608,698,596,676,592,667,611,659,636,671,661,672,680,671,673,684" stroke="black" />
+    <polygon id="tanz1" points="585,730,558,732,587,764,601,798,622,816,659,817,664,786,648,771,636,750" stroke="black" />
+    <polygon id="tanz2" points="558,732,538,737,541,759,550,796,556,816,570,818,627,817,601,798,587,759" stroke="black" />
+    <polygon id="south-sudan" points="590,598,551,606,516,608,488,604,480,620,499,636,507,648,513,652,522,666,538,673,560,677,593,674,589,665,610,658,585,634,578,630,593,622" stroke="black" />
+    <polygon id="uganda" points="564,680,553,694,546,726,550,736,565,732,593,730,606,706,608,685,598,674,584,677" stroke="black" />
+    <polygon id="congo1" points="521,660,471,668,458,709,464,738,490,752,534,738,551,732,544,712,553,696,577,676" stroke="black" />
+    <polygon id="congo2" points="466,738,490,754,540,737,557,811,462,817" stroke="black" />
+    <polygon id="congo3" points="469,665,428,662,414,681,403,726,386,744,373,771,348,782,396,790,443,788,465,793,464,739,461,705" stroke="black" />
+    <polygon id="angola" points="348,782,364,818,464,818,462,792" stroke="black" />
+    <polygon id="chad" points="377,451,404,456,439,478,481,486,479,532,467,544,457,564,470,584,442,605,401,624,377,626,373,573,355,550,383,523,390,477" stroke="black" />
+    <polygon id="niger" points="377,455,349,447,330,453,283,484,271,489,253,497,245,542,211,547,245,585,262,558,298,569,342,567,360,562,353,550,382,524,385,498,391,479" stroke="black" />
+    <polygon id="libya1" points="413,367,404,456,445,479,484,483,495,449,490,354,472,349,451,345,437,359,431,375" stroke="black" />
+    <polygon id="libya2" points="412,364,377,360,364,347,333,341,321,370,316,395,316,425,340,452,359,451,380,454,404,457" stroke="black" />
+    <polygon id="algeria1" points="322,293,244,298,269,370,314,378,335,338" stroke="black" />
+    <polygon id="algeria2" points="245,302,181,317,191,350,163,361,232,374,268,371" stroke="black" />
+    <polygon id="algeria3" points="222,374,242,426,279,427,318,431,314,393,314,376,270,371" stroke="black" />
+    <polygon id="algeria4" points="239,426,205,468,251,502,274,491,340,447,319,427" stroke="black" />
+    <polygon id="algeria5" points="168,362,110,388,109,409,146,428,207,469,242,423,222,371" stroke="black" />
+    <polygon id="morocco" points="143,310,106,340,95,353,55,404,110,403,115,386,166,360,195,350,185,315" stroke="black" />
+    <polygon id="west-sahra" points="56,406,14,475,59,478,60,455,74,449,70,421,109,421,112,406" stroke="black" />
+    <polygon id="mauritana1" points="110,408,156,431,133,435,144,539,59,463,73,447,73,419,107,421" stroke="black" />
+    <polygon id="mauritana2" points="11,472,20,526,56,535,74,550,143,542,60,463,61,476" stroke="black" />
+    <polygon id="mali1" points="214,474,170,531,142,541,133,435,156,432" stroke="black" />
+    <polygon id="mali2" points="142,539,167,571,213,549,244,539,251,504,214,473,168,531" stroke="black" />
+    <polygon id="mali3" points="70,550,81,581,106,577,118,599,149,601,149,584,169,570,146,536" stroke="black" />
+    <polygon id="central-africa" points="375,624,391,695,418,677,430,660,465,667,519,657,505,640,481,623,483,607,466,584,422,615" stroke="black" />
+    <polygon id="nigeria1" points="244,585,290,612,333,613,377,618,373,570,348,561,307,568,270,562,246,576" stroke="black" />
+    <polygon id="nigeria2" points="291,612,283,667,313,671,390,674,379,618,355,614" stroke="black" />
+    <polygon id="nigeria3" points="246,587,217,649,254,642,273,669,286,668,294,608" stroke="black" />
+    <polygon id="gaban" points="320,670,311,736,348,784,372,773,385,744,405,730,413,679,388,693,388,675" stroke="black" />
+    <polygon id="gaban2" stroke="black" />
+    <polygon id="ghana" points="120,600,120,664,157,655,187,661,220,649,247,587,216,551,166,565,148,579,151,601" stroke="black" />
+    <polygon id="guinea" points="20,530,57,534,73,550,74,568,83,580,108,578,122,598,120,666,62,631,19,580,11,551" stroke="black" />
+    <polygon id="england" points="165,52,140,62,147,81,159,92,170,97,175,109,159,112,157,120,146,124,168,133,155,134,141,144,167,147,202,143,221,134,210,129,225,120,210,115,210,104,193,98,183,80,171,80,194,63,169,61" stroke="black" />
+    <polygon id="ireland" points="116,86,83,101,89,124,92,138,123,152,139,124,138,88" stroke="black" />
+    <polygon id="france1" points="157,168,213,151,242,137,305,162,292,180,260,197,196,197" stroke="black" />
+    <polygon id="france2" points="301,164,307,214,279,224,248,224,242,234,188,223,192,194,260,197,294,179" stroke="black" />
+    <polygon id="spain1" points="187,224,147,221,192,289,214,256,243,245,242,231" stroke="black" />
+    <polygon id="spain2" points="144,223,109,215,101,230,109,240,133,245,129,272,129,296,140,307,149,308,167,298,193,288,151,225" stroke="black" />
+    <polygon id="portugal" points="107,241,95,272,104,296,129,295,133,246" stroke="black" />
+    <polygon id="german-french" points="314,99,324,137,333,151,303,160,238,138,269,112" stroke="black" />
+    <polygon id="euroaly" points="326,147,363,196,306,216,299,159,332,148" stroke="black" />
+    <polygon id="gerpol" points="325,58,297,80,312,99,330,147,377,138,418,145,409,96,375,101,345,100,326,99,326,81" stroke="black" />
+    <polygon id="east-poland" points="409,94,471,98,481,136,464,157,431,152,416,145" stroke="black" />
+    <polygon id="belarus" points="484,101,531,76,556,90,579,101,590,116,558,128,517,133,481,135,471,101,574,52" stroke="black" />
+    <polygon id="landia" points="537,39,475,44,485,73,452,57,447,89,467,102,533,73,526,63,528,55" stroke="black" />
+    <polygon id="ukraine1" points="556,128,591,191,590,210,622,200,629,185,653,180,657,165,640,145,604,134,586,115" stroke="black" />
+    <polygon id="ukraine2" points="559,129,484,136,464,156,466,167,504,171,537,171,531,195,546,203,571,184,583,191,594,191" stroke="black" />
+    <polygon id="romania" points="464,169,438,194,454,205,470,211,491,220,509,212,533,215,544,201,540,184,531,168" stroke="black" />
+    <polygon id="landia2" points="456,206,445,239,491,247,512,259,565,250,522,234,533,214,513,214,483,218" stroke="black" />
+    <polygon id="euroland1" points="449,240,427,237,430,263,455,294,470,303,480,284,463,258,507,257,477,242" stroke="black" />
+    <polygon id="euroland2" points="404,138,394,191,440,194,465,167,465,157,429,150" stroke="black" />
+    <polygon id="euroland3" points="366,197,395,190,405,138,375,134,326,150" stroke="black" />
+    <polygon id="euroland4" points="402,234,364,197,394,189,442,196,457,206,447,237" stroke="black" />
+    <polygon id="italy" points="317,217,369,256,388,263,386,280,345,287,377,302,401,279,413,260,391,242,353,215,347,201,317,211" stroke="black" />
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="736" y="307" font-size="15" font-family="null" text-anchor="start" xml:space="preserve">iranw</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="837" y="320" font-size="15" font-family="null" text-anchor="start" xml:space="preserve">irane</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="822" y="206.80313" font-size="15" font-family="null" text-anchor="start" xml:space="preserve" transform="matrix(1, 0, 0, 0.789546, 0, 62.5635)"/>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="846" y="245" font-size="10" font-family="null" text-anchor="start" xml:space="preserve">turnkm1</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="834" y="257" font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#turkm1eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="829" y="271"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#turkm1pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="897" y="263"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">turkm2</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="892" y="278"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#turkm2eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="896" y="289"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#turkm3pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="928.54999" y="315.7"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">afq1</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="919.29999" y="339.45"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#afq1eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="917.92499" y="358.325" font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#afq1pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="975.67499" y="292.325"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-27.5841, 984.558, 288.925)">afq2</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="976.79999" y="310.2" font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-27.3022, 992.621, 306.8)" >#afq2eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="979.79999" y="330.45"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-27.9109, 996.183, 327.05)" >#afq2pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="752.42499" y="340.3"  font-size="null" font-family="null" text-anchor="start" xml:space="preserve" >#iranweco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="769.54999" y="370.425" font-size="null" font-family="null" text-anchor="start" xml:space="preserve" >#iranwpop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="842.42499" y="352.175"  font-size="null" font-family="null" text-anchor="start" xml:space="preserve" >#iraneeco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="849.79999" y="390.05"  font-size="null" font-family="null" text-anchor="start" xml:space="preserve" >#iranweco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="939.92499" y="384.60001" font-size="10" font-family="null" text-anchor="start" xml:space="preserve">pak1</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="946.67499" y="405.72501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#pak1eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="958.67499" y="426.35001" font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#pak1pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="996.17499" y="351.72501" font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-29.382, 1005.89, 348.325)">pak2</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="999.42499" y="367.85001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-29.9431, 1016.08, 364.45)" >#pak2eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1006.79999" y="384.72501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-32.3978, 1024.02, 381.325)" >#pak2pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1028.92499" y="317.05" font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-31.7999, 1038.64, 313.65)">pak3</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1036.67499" y="332.8"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-33.4531, 1053.33, 329.4)" >#pak3eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1051.04999" y="348.3"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-33.3865, 1068.27, 344.9)" >#pak3pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1147.84998" y="395.47501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">indi1</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1151.84998" y="417.85001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#indi1eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1160.84998" y="445.47501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#indi1pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1073.34998" y="381.47501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">indi2</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1070.22498" y="404.97501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#indi2eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1069.97498" y="429.85001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#indi2pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1024.72498" y="415.60001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">indi3</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1017.34998" y="437.85001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#indi3eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1017.22498" y="459.10001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#indi3pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1094.09998" y="456.47501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">indi4</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1098.59998" y="474.35001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#indi4eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1109.22498" y="496.72501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#indi4pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1076.22498" y="522.70001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">indi5</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1073.22498" y="550.70001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#indi5eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1077.34998" y="578.82501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#indi5pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1234.54999" y="412.39999"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">chi5</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1227.29999" y="432.39999"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#chi5eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1228.17499" y="453.64999"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#chi5pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1230.79999" y="321.27499"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">chi4</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1218.54999" y="345.27499"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#chi4eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1224.79999" y="367.64999"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#chi4pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1140.79999" y="327.89999"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">chi7</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1141.92499" y="349.64999"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#chi7eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1162.54999" y="370.27499"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#chi7pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1213.42499" y="243.89999"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">chi3</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1208.92499" y="268.14999"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#chi3eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1216.92499" y="291.89999"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#chi3pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1080.79999" y="279.55"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-17.0283, 1089.41, 276.15)">chi6</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1094.42499" y="297.8"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-20.1407, 1109.97, 294.4)" >#chi6eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1120.54999" y="308.675"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-19.4008, 1136.66, 305.275)" >#chi6pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1208.79999" y="167"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">chi1</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1191.79999" y="188.25"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#chi1eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1192.79999" y="215"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#chi1pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1131.29999" y="214.5"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">chi2</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1124.92499" y="238.22501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#chi2eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1117.79999" y="261.47501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#chi2pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="860.125" y="216.97501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">uzbek</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="897.875" y="230.85001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#uzbekeco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="934" y="249.35001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#uzbekpop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1004" y="227.22501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">kazak7</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="999.625" y="243.60001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#kazak7eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1001" y="260.60001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#kazak7pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="944" y="179.825"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">kazak5</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="943.375" y="193.825"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#kazak5eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="944.375" y="208.7"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#kazak5pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="869.25" y="151.825"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">kazak3</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="866.5" y="170.575"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#kazak3eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="868.375" y="190.325"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#kazak3pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="815.67499" y="196.025"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">kazak1</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="799.42499" y="211.775"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#kazak1eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="801.42499" y="225.775"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#kazak1pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="778.54999" y="145.05"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">kaza2</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="801.92499" y="158.8"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#kaza2eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="768.92499" y="173.425"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#kaza2pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1010.77502" y="172.65"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">kazak8</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1032.02502" y="192.525"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#kazak8eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1060.90002" y="217.275"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#kazak8pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1068.625" y="130.85"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">kazak9</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1070.25" y="149.85"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#kazak9eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1090" y="171.85"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#kazak9pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="914.54999" y="105.9"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">kazak4</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="915.67499" y="133.275"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#kazak4eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="920.17499" y="156.9"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#kazak4pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="985.29999" y="101.625"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">kazak6</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="982.79999" y="124"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#kazak6eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="989.79999" y="148"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#kazak6pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="653.77562" y="389.375"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(4.03349, 664.795, 385.355) matrix(0.988741, 0, 0, 1, 7.33533, 0)">arab1</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="657.875" y="414.5"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-0.0120568, 675.915, 411.1)" >#arab1eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="669.375" y="443.5"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-3.31807, 687.977, 440.1)" >#arab1pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="767.04999" y="464.57501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">arab2</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="735.79999" y="488.82501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#arab2eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="718.54999" y="526.20001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#arab2pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="657.92499" y="307.625"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">iraq</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="650.42499" y="326.625"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#iraqeco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="650.04999" y="348.875"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#iraqpop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="584.72501" y="254.47501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">turkey</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="552.35001" y="275.10001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#turkeyeco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="628.97501" y="284.22501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#turkeypop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="684.35001" y="147.55"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">ru1</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="676.72501" y="183.3"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru1eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="693.60001" y="220.925"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru1pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="579.97501" y="20"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">ru3</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="556.72501" y="34.875"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru3eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="587.35001" y="52.625"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru3pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="623.72501" y="71.275"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">ru2</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="623.85001" y="93.775"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru2eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="627.35001" y="120.775"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru2pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="671.09998" y="17"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">ru4</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="698.97498" y="27.75"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru4eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="739.09998" y="44.625"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru4pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="715.72498" y="72.5"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">ru5</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="745.97498" y="89.5"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru5eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="761.72498" y="117.5"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru5pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="839.59998" y="11.25"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">ru6</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="856.72498" y="22.25"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru6eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="865.97498" y="39.375"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru6pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="841.72498" y="67.025"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">ru7</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="859.47498" y="88.15"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru7eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="840.09998" y="111.65"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru7pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="991.25" y="15.5"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">ru8</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="993.25" y="41.625"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru8eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1009" y="67.875"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru8pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1086.82501" y="14.25"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">ru9</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1076.45001" y="38.625"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru9eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1089.20001" y="68.875"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru9pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1155.11664" y="89.375"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">ru10</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1140.46667" y="109.1"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru10eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1147.96667" y="129.6"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru10pop</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1217.84167" y="16.5"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">ru11</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1216.21667" y="50.5"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru11eco</text>
+    <text  stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1225.46667" y="94.25"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" >#ru11pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="338.125" x="553.08334" stroke-width="null" stroke="#000" >egt1</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="356.625" x="510.70834" stroke-width="null" stroke="#000"  >#egt1eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="377.25" x="506.33334" stroke-width="null" stroke="#000"  >#egt1pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="397.875" x="552.58334" stroke-width="null" stroke="#000" >egt2</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="417.25" x="503.70834" stroke-width="null" stroke="#000"  >#egt2eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="442.875" x="525.70834" stroke-width="null" stroke="#000"  >#egt2pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="478.25" x="536.70834" stroke-width="null" stroke="#000" >sud1</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="498.625" x="515.70834" stroke-width="null" stroke="#000"  >#sud1eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="527.25" x="514.33334" stroke-width="null" stroke="#000"  >#sud1pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="555.625" x="507.95834" stroke-width="null" stroke="#000" >sud2</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="574.625" x="490.70834" stroke-width="null" stroke="#000"  >#sud2eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="593.625" x="494.95834" stroke-width="null" stroke="#000"  >#sud2pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="570.25" x="628.70834" stroke-width="null" stroke="#000" >ethio1</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="597.625" x="618.95834" stroke-width="null" stroke="#000"  >#ethio1eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="622.25" x="605.33334" stroke-width="null" stroke="#000"  >#ethio1pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="607.25" x="687.08334" stroke-width="null" stroke="#000" >ethio2</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="624.875" x="673.70834" stroke-width="null" stroke="#000"  >#ethio2eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="648.25" x="668.70834" stroke-width="null" stroke="#000"  >#ethio2pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="604.875" x="758.95834" stroke-width="null" stroke="#000" >somal</text>
+    <text transform="rotate(-48.4625, 746.965, 644.75)" xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="648.25" x="728.08334" stroke-width="null" stroke="#000"  >#somaleco</text>
+    <text transform="rotate(-35.2987, 703.777, 686.75)" xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="690.25" x="684.33334" stroke-width="null" stroke="#000"  >#somalpop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="681.875" x="628.33334" stroke-width="null" stroke="#000" >kenya</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="699.875" x="613.33334" stroke-width="null" stroke="#000"  >#kenyaeco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="727.625" x="612.95834" stroke-width="null" stroke="#000"  >#kenyapop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="751" x="588.45834" stroke-width="null" stroke="#000" >tanz1</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="772.125" x="599.45834" stroke-width="null" stroke="#000"  >#tanz1eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="796.5" x="614.08334" stroke-width="null" stroke="#000"  >#tanz1pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="751.875" x="547.70834" stroke-width="null" stroke="#000" >tanz2</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="772.125" x="549.45834" stroke-width="null" stroke="#000"  >#tanz2eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="799.875" x="556.83334" stroke-width="null" stroke="#000"  >#tanz2pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="619.90002" x="512.33334" stroke-width="null" stroke="#000" >south sudan</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="635.52502" x="508.45834" stroke-width="null" stroke="#000"  id="south-sudaneco"></text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="652.65002" x="523.08334" stroke-width="null" stroke="#000"  id="south-sudanpop"></text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="690.07501" x="569.70834" stroke-width="null" stroke="#000" >uganda</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="704.07501" x="555.70834" stroke-width="null" stroke="#000"  >#ugandaeco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="720.45001" x="550.83334" stroke-width="null" stroke="#000"  >#ugandapop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="680.20001" x="494.70834" stroke-width="null" stroke="#000" >congo1</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="704.32501" x="466.45834" stroke-width="null" stroke="#000"  >#congo1eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="724.70001" x="478.08334" stroke-width="null" stroke="#000"  >#congo1pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="762.95001" x="483.20834" stroke-width="null" stroke="#000" >congo2</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="780.95001" x="472.83334" stroke-width="null" stroke="#000"  >#congo2eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="803.70001" x="473.70834" stroke-width="null" stroke="#000"  >#congo2pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="685.32501" x="422.40833" stroke-width="null" stroke="#000" >congo3</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="717.07501" x="413.03333" stroke-width="null" stroke="#000"  >#congo3eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="751.32501" x="400.40833" stroke-width="null" stroke="#000"  >#congo3pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="795.17499" x="362.15833" stroke-width="null" stroke="#000" >angola</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="803.67499" x="380.40833" stroke-width="null" stroke="#000"  >#angolaeco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="813.54999" x="410.78333" stroke-width="null" stroke="#000"  >#angolapop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="488.75" x="403.40833" stroke-width="null" stroke="#000" >chad</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="523.75" x="396.15833" stroke-width="null" stroke="#000"  >#chadeco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="560.75" x="381.53333" stroke-width="null" stroke="#000"  >#chadpop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="469.89999" x="327.78334" stroke-width="null" stroke="#000" >niger</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="499.52499" x="299.78334" stroke-width="null" stroke="#000"  >#nigereco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="530.89999" x="274.53334" stroke-width="null" stroke="#000"  >#nigerpop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="379.04999" x="439.73334" stroke-width="null" stroke="#000" >libya1</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="402.54999" x="420.23334" stroke-width="null" stroke="#000"  >#libya1eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="432.92499" x="418.35834" stroke-width="null" stroke="#000"  >#libya1pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="369.92499" x="335.73334" stroke-width="null" stroke="#000" >libya2</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="394.92499" x="329.23334" stroke-width="null" stroke="#000"  >#libya2eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="420.92499" x="331.23334" stroke-width="null" stroke="#000"  >#libya2pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="307.675" x="265.50833" stroke-width="null" stroke="#000" >algeria1</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="326.675" x="265.13333" stroke-width="null" stroke="#000"  >#algeria1eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="354.3" x="270.25833" stroke-width="null" stroke="#000"  >#algeria1pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="320.64999" x="196.40833" stroke-width="null" stroke="#000" >algeria2</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="334.64999" x="195.40833" stroke-width="null" stroke="#000"  >#algeria2eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="356.27499" x="199.65833" stroke-width="null" stroke="#000"  >#algeria2pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="383.14999" x="246.03333" stroke-width="null" stroke="#000" >algeria3</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="398.14999" x="240.65833" stroke-width="null" stroke="#000"  >#algeria3eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="417.64999" x="248.40833" stroke-width="null" stroke="#000"  >#algeria3pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="436.47501" x="250.78333" stroke-width="null" stroke="#000" >algeria4</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="452.47501" x="234.15833" stroke-width="null" stroke="#000"  >#algeria4eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="469.72501" x="229.40833" stroke-width="null" stroke="#000"  >#algeria4pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="382.95001" x="155.78333" stroke-width="null" stroke="#000" >algeria5</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="402.95001" x="140.03333" stroke-width="null" stroke="#000"  >#algeria5eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="427.07501" x="163.78333" stroke-width="null" stroke="#000"  >#algeria5pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="324.5" x="143.15833" stroke-width="null" stroke="#000" >morocco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="346.5" x="109.15833" stroke-width="null" stroke="#000"  >#moroccoeco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="368.75" x="89.40833" stroke-width="null" stroke="#000"  >#moroccopop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="414.10001" x="60.625" stroke-width="null" stroke="#000" >west-sahra</text>
+    <text transform="rotate(-59.6094, 39.3146, 441.2)" xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="444.60001" x="11" stroke-width="null" stroke="#000"  id="west-sahraeco"></text>
+    <text transform="rotate(-59.972, 50.6271, 445.825)" xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="449.22501" x="21.75" stroke-width="null" stroke="#000"  id="west-sahrapop"></text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="431.29999" x="84.375" stroke-width="null" stroke="#000" >mauritana1</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="451.67499" x="73.625" stroke-width="null" stroke="#000"  >#mauritana1eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="469.92499" x="71.75" stroke-width="null" stroke="#000"  >#mauritana1pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="484.67499" x="20.625" stroke-width="null" stroke="#000" >mauritana2</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="500.54999" x="21.75" stroke-width="null" stroke="#000"  >#mauritana2eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="521.54999" x="27.125" stroke-width="null" stroke="#000"  >#mauritana2pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="453.29999" x="138.5" stroke-width="null" stroke="#000" >mali1</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="473.67499" x="140.5" stroke-width="null" stroke="#000"  >#mali1eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="504.92499" x="143.125" stroke-width="null" stroke="#000"  >#mali1pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="498.32501" x="200.5" stroke-width="null" stroke="#000" >mali2</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="517.32501" x="190" stroke-width="null" stroke="#000"  >#mali2eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="536.95001" x="171.125" stroke-width="null" stroke="#000"  >#mali2pop</text>
+    <text transform="rotate(-19.916, 93.7625, 556.725)" xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="560.125" x="82.375" stroke-width="null" stroke="#000" >mali3</text>
+    <text transform="rotate(-22.5648, 121.95, 559.475)" xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="562.875" x="103.625" stroke-width="null" stroke="#000"  >#mali3eco</text>
+    <text transform="rotate(-28.9144, 134.137, 569.35)" xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="572.75" x="115.25" stroke-width="null" stroke="#000"  >#mali3pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="619.02502" x="426.32501" stroke-width="null" stroke="#000" >central-africa</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="633.52502" x="400.57501" stroke-width="null" stroke="#000"  id="central-africaeco"></text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="650.90002" x="392.20001" stroke-width="null" stroke="#000"  id="central-africapop"></text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="577.34998" x="266.05" stroke-width="null" stroke="#000" >nigeria1</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="588.34998" x="298.8" stroke-width="null" stroke="#000"  >#nigeria1eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="603.84998" x="302.3" stroke-width="null" stroke="#000"  >#nigeria1pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="622.70001" x="306.425" stroke-width="null" stroke="#000" >nigeria2</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="636.95001" x="305.05" stroke-width="null" stroke="#000"  >#nigeria2eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="654.45001" x="303.425" stroke-width="null" stroke="#000"  >#nigeria2pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="608.32501" x="241.8" stroke-width="null" stroke="#000" >nigeria3</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="623.07501" x="238.425" stroke-width="null" stroke="#000"  >#nigeria3eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="638.45001" x="235.05" stroke-width="null" stroke="#000"  >#nigeria3pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="685.54999" x="329.3" stroke-width="null" stroke="#000" >gaban</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="706.67499" x="324.675" stroke-width="null" stroke="#000"  >#gabaneco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="734.04999" x="325.3" stroke-width="null" stroke="#000"  >#gabanpop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="571.84998" x="175.9" stroke-width="null" stroke="#000" >ghana</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="600.72498" x="163.65" stroke-width="null" stroke="#000"  >#ghanaeco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="636.09998" x="145.9" stroke-width="null" stroke="#000"  >#ghanapop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="546.72498" x="23.75" stroke-width="null" stroke="#000" >guinea</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="577.09998" x="30.75" stroke-width="null" stroke="#000"  >#guineaeco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="612.47498" x="58.5" stroke-width="null" stroke="#000"  >#guineapop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="110.075" x="175.625" stroke-width="null" stroke="#000" >england</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="123.7" x="165.875" stroke-width="null" stroke="#000"  >#englandeco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="136.825" x="165.875" stroke-width="null" stroke="#000"  >#englandpop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="103.825" x="97" stroke-width="null" stroke="#000" >ireland</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="116.825" x="95.5" stroke-width="null" stroke="#000"  >#irelandeco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="129.45" x="94.125" stroke-width="null" stroke="#000"  >#irelandpop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="154.475" x="224.375" stroke-width="null" stroke="#000" >france1</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="167.225" x="208.25" stroke-width="null" stroke="#000"  >#france1eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="180.475" x="195.75" stroke-width="null" stroke="#000"  >#france1pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="198.625" x="272.375" stroke-width="null" stroke="#000" >france2</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="204.52499" x="195.875" stroke-width="null" stroke="#000"  >#france2eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="218.27499" x="195.25" stroke-width="null" stroke="#000"  >#france2pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="234.27499" x="166.875" stroke-width="null" stroke="#000" >spain1</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="246.89999" x="174.5" stroke-width="null" stroke="#000"  >#spain1eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="259.89999" x="178.25" stroke-width="null" stroke="#000"  >#spain1pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="232.64999" x="115.125" stroke-width="null" stroke="#000" >spain2</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="265.89999" x="133.75" stroke-width="null" stroke="#000"  >#spain2eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="284.77499" x="136.25" stroke-width="null" stroke="#000"  >#spain2pop</text>
+    <text transform="rotate(-18.6167, 115.663, 255.375)" xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="258.77499" x="99" stroke-width="null" stroke="#000" >portugal</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="274.64999" x="96.75" stroke-width="null" stroke="#000"  >#portugaleco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="293.39999" x="102.75" stroke-width="null" stroke="#000"  >#portugalpop</text>
+    <text transform="rotate(-23.4723, 278.673, 119.775)" xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="123.175" x="249.25" stroke-width="null" stroke="#000" >german-french</text>
+    <text transform="rotate(-23.4723, 291.86, 127.4)" xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="130.8" x="255.5" stroke-width="null" stroke="#000"  id="german-frencheco"></text>
+    <text style="cursor: move;" transform="rotate(-23.4723, 309.673, 134.4)" xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="137.8" x="272.75" stroke-width="null" stroke="#000"  id="german-frenchpop"></text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="166.625" x="303.25" stroke-width="null" stroke="#0f0f00" >euroaly</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="179.5" x="304.125" stroke-width="null" stroke="#0f0f00"  >#euroalyeco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="196.25" x="305.5" stroke-width="null" stroke="#0f0f00"  >#euroalypop</text>
+    <text transform="rotate(-41.4292, 312.873, 76.8)" xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="80.2" x="300.10001" stroke-width="null" stroke="#0f0f00" >gerpol</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="109.95" x="353.22501" stroke-width="null" stroke="#0f0f00"  >#gerpoleco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="125.45" x="353.72501" stroke-width="null" stroke="#0f0f00"  >#gerpolpop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="108.7" x="418.72501" stroke-width="null" stroke="#0f0f00" >east-poland</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="123.075" x="413.97501" stroke-width="null" stroke="#0f0f00"  id="east-polandeco"></text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="138.075" x="417.60001" stroke-width="null" stroke="#0f0f00"  id="east-polandpop"></text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="94.95" x="511.77499" stroke-width="null" stroke="#0f0f00" >belarus</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="107.2" x="493.52499" stroke-width="null" stroke="#0f0f00"  >#belaruseco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="122.825" x="487.14999" stroke-width="null" stroke="#0f0f00"  >#belaruspop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="52.5" x="488.02499" stroke-width="null" stroke="#0f0f00" >landia</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="65" x="484.77499" stroke-width="null" stroke="#0f0f00"  >#landiaeco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="83.625" x="454.77499" stroke-width="null" stroke="#0f0f00"  >#landiapop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="140.375" x="567.02499" stroke-width="null" stroke="#0f0f00" >ukraine1</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="159.5" x="583.02499" stroke-width="null" stroke="#0f0f00"  >#ukraine1eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="178.5" x="590.77499" stroke-width="null" stroke="#0f0f00"  >#ukraine1pop</text>
+    <text transform="rotate(-23.4723, 291.86, 127.4)" xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="130.8" x="255.5" stroke-width="null" stroke="#000"  id="german-frencheco"></text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="143" x="497.52499" stroke-width="null" stroke="#0f0f00" >ukraine2</text>
+    <text transform="rotate(-23.4723, 291.86, 127.4)" xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="130.8" x="255.5" stroke-width="null" stroke="#000"  id="german-frencheco"></text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="155.125" x="494.02499" stroke-width="null" stroke="#0f0f00"  >#ukraine2eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="167.025" x="526.89999" stroke-width="null" stroke="#0f0f00"  >#ukraine2pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="180.475" x="476.27499" stroke-width="null" stroke="#0f0f00" >romania</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="196.225" x="464.52499" stroke-width="null" stroke="#0f0f00"  >#romaniaeco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="208.225" x="479.02499" stroke-width="null" stroke="#0f0f00"  >#romaniapop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="226.95" x="455.64999" stroke-width="null" stroke="#0f0f00" >landia2</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="237.825" x="461.89999" stroke-width="null" stroke="#0f0f00"  >#landia2eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="251.075" x="502.77499" stroke-width="null" stroke="#0f0f00"  >#landia2pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="251.25" x="436.02499" stroke-width="null" stroke="#0f0f00" >euroland1</text>
+    <text transform="rotate(58.4422, 470.079, 279.1)" xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="282.5" x="443.14999" stroke-width="null" stroke="#0f0f00"  >#euroland1eco</text>
+    <text style="cursor: move;" transform="rotate(58.4422, 454.267, 278.1)" xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="281.5" x="426.77499" stroke-width="null" stroke="#0f0f00"  >#euroland1pop</text>
+    <text transform="rotate(20.5308, 431.092, 157.6)" xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="161" x="411.10001" stroke-width="null" stroke="#0f0f00" >euroland2</text>
+    <text style="cursor: move;" transform="rotate(20.5308, 428.279, 166.6)" xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="170" x="401.35001" stroke-width="null" stroke="#0f0f00"  >#euroland2eco</text>
+    <text style="cursor: move;" transform="rotate(20.5308, 424.967, 177.35)" xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="180.75" x="397.47501" stroke-width="null" stroke="#0f0f00"  >#euroland2pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="147.625" x="358.72501" stroke-width="null" stroke="#0f0f00" >euroland3</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="158.75" x="342.47501" stroke-width="null" stroke="#0f0f00"  >#euroland3eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="170.75" x="342.85001" stroke-width="null" stroke="#0f0f00"  >#euroland3pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="203.25" x="378.10001" stroke-width="null" stroke="#0f0f00" >euroland4</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="214.5" x="393.22501" stroke-width="null" stroke="#0f0f00"  >#euroland4eco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="226.625" x="393.10001" stroke-width="null" stroke="#0f0f00"  >#euroland4pop</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="216.675" x="325.72501" stroke-width="null" stroke="#0f0f00" >italy</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="230.175" x="335.97501" stroke-width="null" stroke="#0f0f00"  >#italyeco</text>
+    <text xml:space="preserve" text-anchor="start" font-family="null" font-size="10"  y="243.8" x="354.85001" stroke-width="null" stroke="#0f0f00"  >#italypop</text>
+    </g>
+</svg>
