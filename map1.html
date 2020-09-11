@@ -458,7 +458,7 @@
             for(let i = 0; i < states.length; i++){
                 var regex = /(\w+)eco|(\w+)pop/;
                 if(states[i][0].match(/user(\w+)/)){
-                    var text = '<b style="color:' + '#'+states[i][0] + '"">' + decodeURI(states[i][1].replace(/user(\w+)/, '$1')) + '</b><br>';
+                    var text = '<b style="color:' + '#'+states[i][0].replace(/user(\w+)/, '$1') + '"">' + decodeURI(states[i][1]) + '</b><br>';
                     
                     $('#users').append(text);
                 }else if(states[i][0].match(regex)){
