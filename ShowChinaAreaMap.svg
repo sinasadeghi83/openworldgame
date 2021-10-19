@@ -1,0 +1,127 @@
+<svg width="1500" height="1000" xmlns="http://www.w3.org/2000/svg">
+            <g>
+            <title>Sea and ocean</title>
+            <rect x="-1" y="-1" width="1502" height="1002" id="canvas_background" style="fill:#006994;"/>
+            </g>
+
+            <g>
+            <title>Asia-Europe-Africa</title>
+           <polygon id="chi1" points="1206,158,1169,177,1176,224,1279,243,1276,175,1275,135" stroke="black" fill="#FFF"/>
+            <polygon id="chi2" points="1161,175,1144,189,1141,202,1119,205,1117,215,1114,247,1084,251,1115,274,1174,280,1175,224,1168,179" stroke="black" fill="#FFF"/>
+            <polygon id="chi3" points="1175,223,1175,279,1206,307,1261,311,1279,307,1274,241" stroke="black" fill="#FFF"/>
+            <polygon id="chi4" points="1204,308,1218,408,1235,394,1249,401,1266,387,1279,386,1278,308" stroke="black" fill="#FFF"/>
+            <polygon id="chi5" points="1211.25,420 1204.25,434 1207.25,453 1217.25,474 1242.25,470 1259.25,493 1276.25,514 1273.25,392 1263.25,385 1247.25,398 1217.25,389 " stroke="black" fill="#FFF"/>
+            <polygon id="chi6" points="1204,307,1098,326,1081,309,1056,293,1057,276,1041,274,1050,256,1072,254,1082,249,1115,274,1177,279" stroke="black" fill="#FFF"/>
+            <polygon id="chi7" points="1100,327,1116,345,1100,344,1106,355,1114,366,1135,379,1143,375,1166,380,1192,394,1218,398,1204,303" stroke="black" fill="#FFF"/>
+            <polygon id="indi1" points="1121,376,1144,374,1170,381,1188,390,1218,397,1206,436,1208,468,1194,476,1156,462,1131,439,1108,413" stroke="black" fill="#FFF"/>
+            <polygon id="indi2" points="1054,369,1109,363,1127,377,1114,414,1135,439,1089,447,1064,447" stroke="black" fill="#FFF"/>
+            <polygon id="indi3" points="1053,373,1031,392,1019,405,1002,405,1010,431,1011,442,983,451,1008,464,1000,485,1022,484,1032,469,1041,490,1069,494" stroke="black" fill="#FFF"/>
+            <polygon id="indi4" points="1089,447,1134,436,1154,458,1196,473,1194,491,1172,496,1153,519,1069,495,1064,445" stroke="black" fill="#FFF"/>
+            <polygon id="indi5" points="1035.375,488 1063.375,562 1077.375,597 1091.375,624 1108.375,618 1125.375,599 1125.375,565 1125.375,538 1151.375,527 1160.375,516 " stroke="black" fill="#FFF"/>
+            <polygon id="pak1" points="985,356,1005,405,1010,438,983,448,965,438,945,427,906,428,930,411,919,404,910,382" stroke="black" fill="#FFF"/>
+            <polygon id="pak2" points="982,355,1012,330,1058,370,1021,407,1004,408" stroke="black" fill="#FFF"/>
+            <polygon id="pak3" points="1057,292,1036,298,1021,306,1012,329,1056,369,1110,360,1099,346,1117,344,1102,328,1087,315,1071,310,1067,300" stroke="black" fill="#FFF"/>
+            <polygon id="afq1" points="908,312,956,289,985,355,908,380,902,331,897,324" stroke="black" fill="#FFF"/>
+            <polygon id="afq2" points="958,291,1008,267,1035,300,1019,308,1014,333,982,352" stroke="black" fill="#FFF"/>
+            <polygon id="turkm1" points="820.625,233.625 826.625,250.625 806.625,251.625 813.625,264.625 820.625,275.625 821.625,291.625 834.625,282.625 865.625,282.625 907.625,308.625 899.625,307.625 885.625,265.625 899.625,248.625 882.625,230.625 " stroke="black" fill="#FFF" transform="rotate(-1.90682, 857.125, 269.625)"/>
+            <polygon id="turkm2" points="901,246,948,258,969,283,904,315,904,300,892,297,887,263" stroke="black" fill="#FFF"/>
+            <polygon id="uzbek" points="848,234,847,203,880,197,923,209,965,223,1009,270,969,284,951,257,897,249,881,230" stroke="black" fill="#FFF"/>
+            <polygon id="kazak1" points="846,202,863,172,810,182,810,202,793,204,782,211,791,226,811,232,806,242,829,236,850,234" stroke="black" fill="#FFF"/>
+            <polygon id="kaza2" points="863,172,858,137,832,134,802,131,782,131,761,145,749,152,739,170,754,176,762,185,770,190,793,181,810,185" stroke="black" fill="#FFF"/>
+            <polygon id="kazak3" points="908,140,932,210,880,197,847,204,861,169,857,133" stroke="black" fill="#FFF"/>
+            <polygon id="kazak4" points="919,173,989,164,967,97,928,92,915,91,895,109" stroke="black" fill="#FFF"/>
+            <polygon id="kazak5" points="985,164,1014,209,971,233,960,225,932,209,922,172" stroke="black" fill="#FFF"/>
+            <polygon id="kazak6" points="985,164,1049,158,1055,107,996,77,963,91" stroke="black" fill="#FFF"/>
+            <polygon id="kazak7" points="1014,206,1064,229,1074,257,1048,258,1050,275,1073,283,1048,299,1024,295,1008,269,972,235" stroke="black" fill="#FFF"/>
+            <polygon id="kazak8" points="1050,159,1122,205,1118,245,1067,251,1063,225,1011,205,983,163" stroke="black" fill="#FFF"/>
+            <polygon id="kazak9" points="1055,111,1076,100,1100,120,1118,133,1144,141,1189,148,1212,152,1186,167,1162,177,1146,187,1141,200,1123,205,1048,160" stroke="black" fill="#FFF"/>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="822" y="206.80313" font-size="15" font-family="null" text-anchor="start" xml:space="preserve" transform="matrix(1, 0, 0, 0.789546, 0, 62.5635)"/>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="846" y="245" font-size="10" font-family="null" text-anchor="start" xml:space="preserve">turnkm1</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="834" y="257" font-size="10" font-family="null" text-anchor="start" xml:space="preserve">407</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="829" y="271"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">231</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="897" y="263"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">turkm2</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="892" y="278"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">92</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="896" y="289"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">333</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="928.54999" y="315.7"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">afq1</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="919.29999" y="339.45"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">496</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="917.92499" y="358.325" font-size="10" font-family="null" text-anchor="start" xml:space="preserve">93</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="975.67499" y="292.325"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-27.5841, 984.558, 288.925)">afq2</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="976.79999" y="310.2" font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-27.3022, 992.621, 306.8)">237</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="979.79999" y="330.45"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-27.9109, 996.183, 327.05)">413</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="939.92499" y="384.60001" font-size="10" font-family="null" text-anchor="start" xml:space="preserve">pak1</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="946.67499" y="405.72501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">295</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="958.67499" y="426.35001" font-size="10" font-family="null" text-anchor="start" xml:space="preserve">445</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="996.17499" y="351.72501" font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-29.382, 1005.89, 348.325)">pak2</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="999.42499" y="367.85001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-29.9431, 1016.08, 364.45)">75</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1006.79999" y="384.72501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-32.3978, 1024.02, 381.325)">453</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1028.92499" y="317.05" font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-31.7999, 1038.64, 313.65)">pak3</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1036.67499" y="332.8"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-33.4531, 1053.33, 329.4)">55</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1051.04999" y="348.3"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-33.3865, 1068.27, 344.9)">141</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1147.84998" y="395.47501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">indi1</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1151.84998" y="417.85001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">138</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1160.84998" y="445.47501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">50</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1073.34998" y="381.47501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">indi2</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1070.22498" y="404.97501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">162</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1069.97498" y="429.85001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">339</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1024.72498" y="415.60001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">indi3</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1017.34998" y="437.85001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">152</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1017.22498" y="459.10001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">95</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1094.09998" y="456.47501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">indi4</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1098.59998" y="474.35001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">53</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1109.22498" y="496.72501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">277</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1076.22498" y="522.70001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">indi5</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1073.22498" y="550.70001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">323</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1077.34998" y="578.82501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">68</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1234.54999" y="412.39999"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">chi5</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1227.29999" y="432.39999"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">371</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1228.17499" y="453.64999"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">302</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1230.79999" y="321.27499"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">chi4</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1218.54999" y="345.27499"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">298</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1224.79999" y="367.64999"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">483</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1140.79999" y="327.89999"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">chi7</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1141.92499" y="349.64999"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">344</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1162.54999" y="370.27499"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">64</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1213.42499" y="243.89999"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">chi3</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1208.92499" y="268.14999"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">163</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1216.92499" y="291.89999"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">367</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1080.79999" y="279.55"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-17.0283, 1089.41, 276.15)">chi6</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1094.42499" y="297.8"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-20.1407, 1109.97, 294.4)">316</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1120.54999" y="308.675"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve" transform="rotate(-19.4008, 1136.66, 305.275)">320</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1208.79999" y="167"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">chi1</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1191.79999" y="188.25"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">221</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1192.79999" y="215"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">414</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1131.29999" y="214.5"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">chi2</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1124.92499" y="238.22501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">427</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1117.79999" y="261.47501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">480</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="860.125" y="216.97501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">uzbek</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="897.875" y="230.85001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">478</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="934" y="249.35001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">312</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1004" y="227.22501"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">kazak7</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="999.625" y="243.60001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">190</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1001" y="260.60001"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">277</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="944" y="179.825"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">kazak5</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="943.375" y="193.825"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">271</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="944.375" y="208.7"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">228</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="869.25" y="151.825"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">kazak3</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="866.5" y="170.575"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">477</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="868.375" y="190.325"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">421</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="815.67499" y="196.025"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">kazak1</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="799.42499" y="211.775"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">110</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="801.42499" y="225.775"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">334</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="778.54999" y="145.05"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">kaza2</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="801.92499" y="158.8"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">377</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="768.92499" y="173.425"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">278</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1010.77502" y="172.65"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">kazak8</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1032.02502" y="192.525"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">215</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1060.90002" y="217.275"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">219</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1068.625" y="130.85"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">kazak9</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1070.25" y="149.85"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">51</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="1090" y="171.85"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">340</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="914.54999" y="105.9"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">kazak4</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="915.67499" y="133.275"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">471</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="920.17499" y="156.9"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">188</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="985.29999" y="101.625"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">kazak6</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="982.79999" y="124"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">136</text>
+            <text fill="red" stroke="black" stroke-width="null" stroke-opacity="null" fill-opacity="null" x="989.79999" y="148"  font-size="10" font-family="null" text-anchor="start" xml:space="preserve">276</text>
+            </g>
+        </svg>
